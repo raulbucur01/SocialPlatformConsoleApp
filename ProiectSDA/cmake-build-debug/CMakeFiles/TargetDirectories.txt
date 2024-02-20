@@ -1,0 +1,3 @@
+C:/PyCharm Projects/ProiectSDA/cmake-build-debug/CMakeFiles/ProiectSDA.dir
+C:/PyCharm Projects/ProiectSDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PyCharm Projects/ProiectSDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
